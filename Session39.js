@@ -1,16 +1,16 @@
 // Sync. vs Async.
 
-var fs = require('fs');
+// var fs = require('fs');
 
-console.log('Start');
+// console.log('Start');
 
-var song1 = fs.readFileSync('song1.txt', { encoding: 'utf8' });
-console.log(song1);
+// var song1 = fs.readFileSync('song1.txt', { encoding: 'utf8' });
+// console.log(song1);
 
-var song2 = fs.readFileSync('song2.txt', { encoding: 'utf8' });
-console.log(song2);
+// var song2 = fs.readFileSync('song2.txt', { encoding: 'utf8' });
+// console.log(song2);
 
-console.log('End');
+// console.log('End');
 
 // Make coffee --> 5 minutes
 // Wear clothes
