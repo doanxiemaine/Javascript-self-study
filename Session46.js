@@ -22,3 +22,7 @@ var intervalId = setInterval(function() {
         clearInterval(intervalId);
     }
 }, 1000);
+
+// Exercise:
+// Write a function count from 1 to 10
+//      return a promise
