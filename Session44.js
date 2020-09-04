@@ -1,10 +1,9 @@
 // async await (Node 7.6 or above)
 
 var fs = require('fs');
-const { resolve } = require('path');
 
 function readFilePromise(path) {
-    return new Promise(function(resove, reject) {
+    return new Promise(function(resolve, reject) {
         fs.readFile(path, { encoding: 'utf8' }, function(err, data) {
             if (err) {
                 reject(err);
