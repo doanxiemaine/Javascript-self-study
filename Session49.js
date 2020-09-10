@@ -96,3 +96,8 @@ function getStudentsInClass(className) {
 
 var studentsInClass = getStudentsInClass('1A');
 console.log(studentsInClass);
+
+// Exercise:
+// 1. Design database for a e-magazine website.
+// 2. Design database for a e-commerce website.
+// 3. Using node table to make the previous app look nicer.
