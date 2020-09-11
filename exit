@@ -1,0 +1,233 @@
+[33mcommit 60bae987909af924ec043a3439c92fe0f8f4a3f1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Thu Aug 20 10:45:21 2020 +0700
+
+    Learned Session 42: promise.all
+
+[33mcommit ae7f0442e0d6c9744425052ed8fd4eb94ed17489[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Wed Aug 19 10:51:55 2020 +0700
+
+    Start learning Session 42: Method promise.all
+
+[33mcommit df4d892fb0fb27d5c9437c4eba34e52ca1b2257c[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Wed Aug 19 10:50:52 2020 +0700
+
+    Learned Session 41: promise
+
+[33mcommit e8147d14180f6d335a83f05f29556a54ab959aad[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Fri Aug 14 14:11:01 2020 +0700
+
+    Start learning Session 41: Promise
+
+[33mcommit e7414a9e4f464a0e84ef8a7043a18ccad7a10c5c[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Fri Aug 14 13:52:28 2020 +0700
+
+    Session 39: Comment out some unnecessary lines
+
+[33mcommit edc6767a64010fb70ba380f0538dade11dd675da[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Fri Aug 14 13:51:10 2020 +0700
+
+    Learned Session 40: Callback hell
+
+[33mcommit ef25ebe3abcf273dd1f6d60f4324156c0c7782f5[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Fri Aug 14 13:39:07 2020 +0700
+
+    Start learning Session 40: Callback hell
+
+[33mcommit d8df8ec01e1f171b02e5e238abfdbb35048dc92e[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Fri Aug 14 13:37:31 2020 +0700
+
+    Learned Session 39: Sync. and Async.
+
+[33mcommit d1970a352d4929fe917eeb2a7c18f2ef77f53c89[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Wed Aug 12 10:42:30 2020 +0700
+
+    Start learning Session 39: Sync. vs Async.
+
+[33mcommit a0f455d2b6984017064711ee8123ae14ddfe84e8[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:54:03 2020 +0700
+
+    Learned Session 38: Session 32 exercise
+
+[33mcommit d4416f0653ba21a6021090787f66f6b7a5520a15[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:34:32 2020 +0700
+
+    Start learning Session 38: Session 32 exercise
+
+[33mcommit a60a2e57eb164a42684a77e313f5faef2f243b69[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:33:37 2020 +0700
+
+    Learned Session 37: while ..., do ... while loops
+
+[33mcommit e852badcb468c16d38a1161bd23a2dc3ca475eee[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:33:04 2020 +0700
+
+    Learned Session 36: switch ... case
+
+[33mcommit 4ac44a04f6ffe0c403e41f9c05ad86496fcfee7a[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:32:41 2020 +0700
+
+    Learned Session 35: if ... else if ... else
+
+[33mcommit 9a93e430705ee0c86925173ad3b7b9ccd833173f[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:32:12 2020 +0700
+
+    Learned Session 34: Ternary operator
+
+[33mcommit d2d9bfd617fbf9436158dd09fa139a7900e3331a[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:31:30 2020 +0700
+
+    Learned Session 33: if ... else
+
+[33mcommit 7594ad776d866f8585cfd59f8c5e821bf3e96688[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:31:10 2020 +0700
+
+    Learned Session 32: JSON object methods
+
+[33mcommit 75f7510e881577110017721e929f123743102965[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:30:38 2020 +0700
+
+    Learned Session 31: npm
+
+[33mcommit 48c27bdab98196968a45f8f71679e92847d0c111[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:29:47 2020 +0700
+
+    Learned Session 30: Node built-in modules
+
+[33mcommit 7848f55338f804751191926230e19ad9f66f2f89[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:29:03 2020 +0700
+
+    Learned Session 29: Node module system
+
+[33mcommit aa227480dabb150d203c8082cc3427d7e45578eb[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:27:57 2020 +0700
+
+    Learned Session 26: Prototype
+
+[33mcommit 77332347c9067c872905c997ae51df659fd304bc[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:27:31 2020 +0700
+
+    Learned Session 25: `new` keyword
+
+[33mcommit e226bc1a48b5d664832c8220511c0f7c7699126e[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:26:59 2020 +0700
+
+    Learned Session 24: Math object
+
+[33mcommit f4ee244a4ba3ac635586582096c663f0fc3f04a2[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:26:14 2020 +0700
+
+    Learned Session 23: Sort
+
+[33mcommit e3e5262597670f17728050dec1ad88891e98f242[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:24:55 2020 +0700
+
+    Learned Session 22: Reduce, part 2
+
+[33mcommit 71c02df0955987a79ef40e78fd24e85891b6b96b[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:24:24 2020 +0700
+
+    Learned Session 20: Reduce
+
+[33mcommit 73b843e5ef8147c154abdb4d9d3c330ec35cad35[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:24:01 2020 +0700
+
+    Learned Session 19: Find
+
+[33mcommit f7a726967932a90ae70b650e0528ac5ce9cf772f[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:23:42 2020 +0700
+
+    Learned Session 18: Filter
+
+[33mcommit 67bbacc57b5e17a1620e79776796d855d085e3f2[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:23:02 2020 +0700
+
+    Learned Session 17: Mapping
+
+[33mcommit 92b284a71a44f3249ce069d84650c459a0ae66f2[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:22:34 2020 +0700
+
+    Learned Session16: Callback function
+
+[33mcommit bd55c1e0f9c254dca75028c806036f0dafa78e27[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Tue Aug 11 15:22:05 2020 +0700
+
+    Learned Session 15: Array methods
+
+[33mcommit 8f2114e4e0969ade937749362c5eff98e9a736e2[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Mon Aug 10 15:24:36 2020 +0700
+
+    Leanred Session 14: for ... of, for ... in
+
+[33mcommit fb562de4f448b6b447fc002a04f115903f7ff000[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Mon Aug 10 15:24:02 2020 +0700
+
+    Learned Session 13: For loop
+
+[33mcommit 6314593856d016cee62828550afe500bf4f23c38[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Mon Aug 10 15:22:55 2020 +0700
+
+    Learned Session 11: Object methods
+
+[33mcommit 8922e0165969145d93706616002d91f1d014a985[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Mon Aug 10 15:22:27 2020 +0700
+
+    Learned Session 10: Function
+
+[33mcommit 837f0514e83bccc445f6dc9809e3efec16cb3be4[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Mon Aug 10 15:21:50 2020 +0700
+
+    Learned Session 7 + 8: Arithmetic Operators
+
+[33mcommit d797bcfa9daeb0c1bda8334aa34dbff5d9422be8[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Mon Aug 10 15:21:17 2020 +0700
+
+    Learned Session 6: Array
+
+[33mcommit 845c85a85e897c1cdf35a90a04b6a5cad8052be4[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Mon Aug 10 15:19:22 2020 +0700
+
+    Learned Session 5: Object
+
+[33mcommit 8929e6fc4e3666bea0c6f3284f14f0462dc81ef1[m
+Author: doanxiemaine <levuongduy0417@gmail.com>
+Date:   Mon Aug 10 14:42:40 2020 +0700
+
+    Learned Session 4: Types
